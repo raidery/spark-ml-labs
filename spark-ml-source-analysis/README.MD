@@ -2,6 +2,11 @@
 ```
 execute the md document
 pip install https://github.com/mli/notedown/tarball/master
+
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextension enable execute_time/ExecuteTime
+
 jupyter notebook --allow-root
 
 ```
