@@ -2,6 +2,8 @@
 ```
 execute the md document
 pip install https://github.com/mli/notedown/tarball/master
+jupyter notebook --allow-root
+
 ```
 
 https://github.com/endymecy/spark-ml-source-analysis
