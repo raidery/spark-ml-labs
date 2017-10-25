@@ -13,6 +13,7 @@ jupyter notebook --allow-root
 ```
 
 https://github.com/endymecy/spark-ml-source-analysis
+
 http://blog.pluskid.org/?p=39
 
 &emsp;&emsp;本项目对`spark ml`包中各种算法的原理加以介绍并且对算法的代码实现进行详细分析，旨在加深自己对机器学习算法的理解，熟悉这些算法的分布式实现方式。
