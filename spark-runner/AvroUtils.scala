@@ -79,6 +79,7 @@ object App {
   def main(args: Array[String]) {
     val stream = Writeit.createStream
     Readit.fromStream(stream)
+    
     // Readit.f
   }
 }
